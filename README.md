@@ -23,4 +23,4 @@ CONCLUSION
 
       3] Thus Hyper Tuning for the Decision Tree Give highest Accuracy to 81 % Followed by Voting Regressor with 79.71
 
-      4] So overall accuracy of the model cam to 77%
+      4] So overall accuracy of the model is 77%
