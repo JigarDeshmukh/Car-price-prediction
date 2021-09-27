@@ -17,7 +17,7 @@ WORKDONE
 
 CONCLUSION
 
-      1] By Applying 3 different model on the classification DataSet Regression,Random Forest,Decision Tree
+      1] By Applying 3 different model on the dataset Regression,Random Forest,Decision Tree
 
       2] As Decision Tree gave higher accuracy but after hyperparameter tuning i conclude that the accuracy decreased
 
